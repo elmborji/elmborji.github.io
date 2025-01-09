@@ -1,0 +1,86 @@
+*{
+    margin : 0%;
+    padding : 0%;
+}
+
+.t1 {
+    color : white;
+    float : left;
+    font-size : 30px;
+    background-color : gray;
+    border-radius : 100% ;
+}
+ul {
+    float : right;
+    list-style : none;
+}
+li {
+    float : left;
+    padding : 10px;
+    font-size : 22px;
+    color : white;
+}
+nav {
+    height : 67px;
+    background-color : blue;
+}
+a {
+    text-decoration : none;
+    color : white;
+}
+.btn1{
+    background : red ;
+    border-radius : 100%;
+    color : white ; 
+    padding : 5px;
+}
+.content {
+    height : 600px;
+    background-image: url("ecole.jpeg");
+    text-align : center;
+    background-attachment : fixed;
+}
+.c1{
+    padding : 150px;
+}
+.tcontent{
+    color : white;
+    font-size : 50px;
+}
+p {
+    margin-top: 30px;
+    color : black
+}
+.btn1{
+    margin-top: 20px
+}
+body {
+    background : beige ;
+
+}
+.t2{
+    text-align : center;
+    font-size : 30px;
+    color : blue;
+    margin : 20px;
+}
+.c2{
+    width : 70%;
+    float : left;
+}
+.secImg {
+    width: 30%;
+    float: right;
+}
+#img1{
+  height : 300px;  
+  width : 375px
+}
+.btn2 {
+    background: red;
+    border-radius: 100%;
+    color: white;
+    padding: 10px;
+    margin-left : 400px;
+    margin-top : 20px;
+}
